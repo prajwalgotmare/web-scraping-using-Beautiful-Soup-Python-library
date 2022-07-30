@@ -1,4 +1,4 @@
-# Web scraping titles from business insider - news website using Beautiful Soup - a Python library
+# Web scraping Companies titles from business insider - news website using Beautiful Soup - a Python library
 
 In this project I have parsed the company names/titles from the following link using the famous beautifulsoup4 python library.
 
